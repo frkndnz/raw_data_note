@@ -10,8 +10,11 @@
 ## Gerekli Kütüphaneler
 
  + Pandas
+ 	+ pip install pandas
  + Seaborn
+ 	+ pip install seaborn
  + Numpy
+ 	+ pip install numpy 
 
 ### Kütüphaneleri içeri alma
 ```	
