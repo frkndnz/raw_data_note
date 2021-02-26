@@ -23,3 +23,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 ```
+### veriyi alma 
+```
+data= pd.read_csv("temp.txt",parse_dates=["dt"])
+data.head() 
+data.shape() # veri boyutu
+data.dtypes # verideki değişken tiplerini öğrenme
+
