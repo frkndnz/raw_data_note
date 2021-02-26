@@ -9,3 +9,8 @@
  + Pandas
  + Seaborn
  + Numpy
+
+### Kütüphaneleri içeri alma
+`import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt`
